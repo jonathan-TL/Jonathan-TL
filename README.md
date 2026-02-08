@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jonathan
 
-<!--
-**jonathan-TL/Jonathan-TL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Desarrollador Web  
+📚 Estudiante de la Lic. En Desarrollo de Sistemas Web, en la Universidad de Guadalajara, apasionado por el desarrollo web. Busco oportunidades para crecer y contribuir a proyectos innovadores.
 
-Here are some ideas to get you started:
+### 🔧 Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, Java, PHP.
+- **Frameworks:** React, Spring Boot.
+- **Bases de datos:** MySQL
+- **Herramientas:** Git, VS Code, IntelliJ IDEA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🚀 Actualmente trabajando en
+- Mi portafolio personal con proyectos de aprendizaje
+
+### 🎯 Mis objetivos 2026
+- Dominar Spring Boot y Spring Security
+- Contribuir a un proyecto open source
+- Crear 3 proyectos completos para mi portafolio
+- Conseguir mi primer trabajo como desarrollador Java
+
+### 📫 Cómo contactarme
+- LinkedIn: https://www.linkedin.com/in/jonathan-toledo-l/
+- Correo: freelancerjonathan.dev@gmail.com
+
+---
+⭐ *¡Siéntete libre de explorar mis repositorios y contactarme si quieres colaborar!*
