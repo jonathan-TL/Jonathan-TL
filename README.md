@@ -60,7 +60,7 @@
 
 ###
 
-<p align="center">Dominar Spring Boot y Spring Security<br>Contribuir a un proyecto open source<br>Crear 3 proyectos completos para mi portafolio<br>Conseguir mi primer trabajo como desarrollador Java</p>
+<p align="center">Dominar los fundamentos de JavaScript<br>Contribuir en proyectos<br>Crear 3 proyectos completos para mi portafolio<br>Conseguir mi primer trabajo como Junior<br>Aprender React y Node.js</p>
 
 ###
 
