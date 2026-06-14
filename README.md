@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonathan%20Toledo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desarrollador%20Web%20Front%20SEnd%20Junior&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonathan%20Toledo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desarrollador%20Web%20Front%20End%20Junior&descAlignY=55&descAlign=50"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Jonathan+Toledo+%F0%9F%91%8B;Estudiante+de+Desarrollo+Web+%F0%9F%8E%93;Apasionado+por+el+c%C3%B3digo+%F0%9F%92%BB;Buscando+mi+primer+empleo+como+Junior+%F0%9F%9A%80)](https://git.io/typing-svg)
