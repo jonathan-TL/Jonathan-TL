@@ -35,7 +35,7 @@ const jonathan = {
   nombre:       "Jonathan Toledo",
   ubicacion:    "Guadalajara, Jalisco 🇲🇽",
   educacion:    "Lic. en Desarrollo de Sistemas Web — UDG",
-  rol:          "Desarrollador Web Junior (buscando oportunidades)",
+  rol:          "Estudiante con muchas gana de aprender y participar en proyectos",
   intereses:    ["Frontend", "Backend", "UI/UX", "Open Source"],
   disponible:   true,
   frase:        "El código es poesía que las máquinas entienden 💜"
