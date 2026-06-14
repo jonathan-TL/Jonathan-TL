@@ -46,7 +46,7 @@ const jonathan = {
 - 💼 Estudiante con muchas gana de aprender y participar en proyectos**
 - 🌱 Aprendiendo **React** y **Node.js** activamente
 - 🤝 Abierto a **colaborar en proyectos open source**
-- 📬 Contáctame: **freelancerjonathan.dev@gmail.com**
+
 
 ---
 
