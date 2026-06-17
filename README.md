@@ -56,11 +56,11 @@ Aquí algunos de mis primeros proyectos mientras aprendo:
 ## 📊 Estadísticas de aprendizaje
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-TL&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-TL&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ Si estás buscando compañeros para:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=jonathan-TL&color=blue&style=flat-square" alt="Visitas al perfil" />
   <br />
   <i>"El viaje de mil líneas de código comienza con un 'Hola Mundo'"</i>
 </p>
