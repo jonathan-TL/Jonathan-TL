@@ -1,138 +1,115 @@
-<div align="center">
+<h1 align="center">👋 ¡Hola! Soy Jonathan </h1>
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jonathan%20Toledo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%20%20%20%20&descAlignY=55&descAlign=50"/>
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hola%2C+soy+Jonathan+Toledo+%F0%9F%91%8B;Estudiante+de+Desarrollo+Web+%F0%9F%8E%93;Apasionado+por+el+c%C3%B3digo+%F0%9F%92%BB;Buscando+mi+primer+empleo+como+Junior+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<!-- Badges de redes sociales -->
-<a href="https://www.linkedin.com/in/jonathan-toledo-l/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
-</a>
-<a href="https://dev.to/jonathantl" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
-</a>
-<a href="https://www.instagram.com/_jonathan_tl_" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
-</a>
-<a href="https://x.com/jonathan_tl_" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28"/>
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jonathan-TL&color=A855F7&style=flat-square&label=Visitas+al+perfil)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20Web-blue?style=for-the-badge&logo=google-classroom" />
+  <img src="https://img.shields.io/badge/En%20proceso-Frontend%20Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-Guadalajara%2C%20México-red?style=for-the-badge" />
+</p>
 
 ---
 
-## 🙋‍♂️ Sobre mí
+## 🎓 Sobre mí
 
-```javascript
-const jonathan = {
-  nombre:       "Jonathan Toledo",
-  ubicacion:    "Guadalajara, Jalisco 🇲🇽",
-  educacion:    "Lic. en Desarrollo de Sistemas Web — UDG",
-  rol:          "Estudiante con muchas gana de aprender y participar en proyectos",
-  intereses:    ["Frontend", "Backend", "UI/UX", "Open Source"],
-  disponible:   true,
-  frase:        "El código es poesía que las máquinas entienden 💜"
-};
-```
+¡Hola! Soy estudiante de la **Licenciatura en Desarrollo de Sistemas Web** en la **Universidad de Guadalajara**. Actualmente estoy en mi etapa de formación, construyendo bases sólidas en desarrollo frontend y explorando el fascinante mundo de la programación web.
 
-- 🎓 Estudiante en la **Universidad de Guadalajara**
-- 💼 Estudiante con muchas gana de aprender y participar en proyectos**
-- 🌱 Aprendiendo **React** y **Node.js** activamente
-- 🤝 Abierto a **colaborar en proyectos open source**
-
+- 🌱 **Actualmente aprendiendo:** React, Angular y Tailwind CSS
+- 💻 **Tecnologías que manejo:** HTML5, CSS3, JavaScript (básico) (Sigo Aprendiendo)
+- 🎯 **Objetivo 2026:** Dominar un framework frontend y empezar con backend
+- 🤝 **Abierto a:** Colaborar en proyectos para ganar experiencia y aprender en comunidad
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Stack actual
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-### Lenguajes
-<img src="https://skillicons.dev/icons?i=html,css,js,py,java" height="50"/>
+### 🔜 Próximas tecnologías
 
-### Frameworks & Librerías
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" height="50"/>
-
-### Herramientas & Otros
-<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,figma,canva" height="50"/>
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jonathan-TL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathan-TL&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jonathan-TL&locale=es&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app?username=jonathan-TL&theme=tokyonight&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="120"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathan-TL&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📁 Proyectos realizados (Landing Pages)
 
-<div align="center">
+Aquí algunos de mis primeros proyectos mientras aprendo:
 
-[![Landingpage-taller]()](https://jonathan-tl.github.io/Landingpage-taller/)
-[![Autos-Seminuevos-Landing-Page](https://github.com/jonathan-TL/Autos-Seminuevos-Landing-Page?tab=readme-ov-file#readme)](https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/)
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Landing Page 1] https://jonathan-tl.github.io/Landingpage-taller/ | Pagina para taller hecha con  | HTML, CSS, JS |
+| [Landing Page 2] https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/ | Pagina para negocio de venta de autos seminuevos | HTML, CSS, JS |
+| [Landing Page 3] https://citluen.com/ | Pagina informativa para empresa de aluminio y cristaleria | HTML, CSS, JS |
 
-</div>
-
-
----
-
-## 🎯 Objetivos 2026
-
-<div align="center">
-
-| Meta | Estado |
-|------|--------|
-| ✅ Dominar fundamentos de JavaScript | En progreso |
-| 🔄 Aprender React y Node.js | En progreso |
-| 📁 Crear 3 proyectos completos para mi portafolio | En progreso |
-| 🤝 Contribuir en proyectos open source | Pendiente |
-| 💼 Conseguir mi primer trabajo como Junior | Buscando |
-
-</div>
+> 💡 *Estoy en proceso de subir más proyectos a medida que avanzo en mi aprendizaje.*
 
 ---
 
+## 📊 Estadísticas de aprendizaje
 
-## 🐍 Contribuciones
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage" />
+</p>
 
-<div align="center">
-
-<img src="https://ghchart.rshah.org/A855F7/jonathan-TL" alt="Contribuciones de Jonathan" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+</p>
 
 ---
 
-<div align="center">
+## 🎮 Fuera del código
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+Cuando no estoy programando, me encontrarás:
 
-**¡Gracias por visitar mi perfil! Si te gustó, no olvides dejar una ⭐**
+- 📚 **Leyendo** (siempre buscando nuevas historias)
+- 🎮 **Jugando videojuegos** (mi otra pasión)
+- 🎬 **Viendo anime** (siempre abierto a recomendaciones)
+- 🤝 **Conectando** con otros developers en redes
 
-</div>
+---
+
+## 🌐 Conéctate conmigo
+
+¡Me encanta conocer gente nueva! Si quieres colaborar, compartir conocimiento o solo charlar, aquí estoy:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-toledo-l">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/jonathan_tl_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_jonathan_tl_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/jonathantoledodev">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🤝 ¿Quieres colaborar?
+
+Si estás buscando compañeros para:
+- ✅ Hacer proyectos en equipo
+- ✅ Practicar código juntos
+- ✅ Crear una comunidad de aprendizaje
+
+**¡Escríbeme!** Estoy en toda la disposición de aprender y crecer junto a otros developers.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square" alt="Visitas al perfil" />
+  <br />
+  <i>"El viaje de mil líneas de código comienza con un 'Hola Mundo'"</i>
+</p>
