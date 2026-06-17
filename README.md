@@ -45,9 +45,9 @@ Aquí algunos de mis primeros proyectos mientras aprendo:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [Landing Page 1] https://jonathan-tl.github.io/Landingpage-taller/ | Pagina para taller hecha con  | HTML, CSS, JS |
-| [Landing Page 2] https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/ | Pagina para negocio de venta de autos seminuevos | HTML, CSS, JS |
-| [Landing Page 3] https://citluen.com/ | Pagina informativa para empresa de aluminio y cristaleria | HTML, CSS, JS |
+|  https://jonathan-tl.github.io/Landingpage-taller/ | Pagina para taller hecha con  | HTML, CSS, JS |
+|  https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/ | Pagina para negocio de venta de autos seminuevos | HTML, CSS, JS |
+|  https://citluen.com/ | Pagina informativa para empresa de aluminio y cristaleria | HTML, CSS, JS |
 
 > 💡 *Estoy en proceso de subir más proyectos a medida que avanzo en mi aprendizaje.*
 
