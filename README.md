@@ -10,7 +10,7 @@
 
 ## 🎓 Sobre mí
 
-¡Hola! Soy estudiante de la **Licenciatura en Desarrollo de Sistemas Web** en la **Universidad de Guadalajara**. Actualmente estoy en mi etapa de formación, construyendo bases sólidas en desarrollo frontend y explorando el fascinante mundo de la programación web.
+¡Hola! Soy estudiante de la **Licenciatura en Desarrollo de Sistemas Web** en la **Universidad de Guadalajara**. Actualmente estoy en mi etapa de formación, construyendo bases sólidas en desarrollo frontend y explorando el fascinante mundo de la programación web, cuando no estoy programando estoy pasando tiempo en familia, jugando videojuegos, leyendo algun libro o viendo alguna serie anime.
 
 - 🌱 **Actualmente aprendiendo:** React, Angular y Tailwind CSS
 - 💻 **Tecnologías que manejo:** HTML5, CSS3, JavaScript (básico) (Sigo Aprendiendo)
