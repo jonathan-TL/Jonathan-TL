@@ -1,12 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Jonathan </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20Web-blue?style=for-the-badge&logo=google-classroom" />
-  <img src="https://img.shields.io/badge/En%20proceso-Frontend%20Developer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍-Guadalajara%2C%20México-red?style=for-the-badge" />
-</p>
-
----
+<h2 data-importer="text" align="left">👋 ¡Hola! Soy Jonathan</h2>
 
 ## 🎓 Sobre mí
 
@@ -16,26 +8,6 @@
 - 💻 **Tecnologías que manejo:** HTML5, CSS3, JavaScript (básico) (Sigo Aprendiendo)
 - 🎯 **Objetivo 2026:** Dominar un framework frontend y empezar con backend
 - 🤝 **Abierto a:** Colaborar en proyectos para ganar experiencia y aprender en comunidad
-
----
-
-## 🛠️ Stack actual
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🔜 Próximas tecnologías
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
 
 ---
 
@@ -53,18 +25,6 @@ Aquí algunos de mis primeros proyectos mientras aprendo:
 
 ---
 
-## 📊 Estadísticas de aprendizaje
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-TL&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-TL&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🎮 Fuera del código
 
 Cuando no estoy programando, me encontrarás:
@@ -76,26 +36,73 @@ Cuando no estoy programando, me encontrarás:
 
 ---
 
-## 🌐 Conéctate conmigo
+###
 
-¡Me encanta conocer gente nueva! Si quieres colaborar, compartir conocimiento o solo charlar, aquí estoy:
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-toledo-l">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/jonathan_tl_">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/_jonathan_tl_">
-    <img src="https://www.instagram.com/devbyjona?igsh=c2t0YXloZTQ1aHVz&utm_source=qr" />
-  </a>
-  <a href="https://www.facebook.com/jonathantoledodev">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW80OHY2eHVybm91YXg0Znoxd3kzNWsyMHI2cXRibGFndHVjZTNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+### 🌐 Conéctate conmigo
+
+¡Me encanta conocer gente nueva! Si quieres colaborar, compartir conocimiento o solo charlar.
+
+<div data-importer="socials" align="left">
+  <a href="https://www.facebook.com/devbyjona" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/devbyjona" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-toledo-l" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/devbyjona" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 ## 🤝 ¿Quieres colaborar?
 
@@ -108,8 +115,8 @@ Si estás buscando compañeros para:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonathan-TL&color=blue&style=flat-square" alt="Visitas al perfil" />
-  <br />
-  <i>"El viaje de mil líneas de código comienza con un 'Hola Mundo'"</i>
-</p>
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/snake-output/snake.svg" alt="Snake animation" />
+
+###
