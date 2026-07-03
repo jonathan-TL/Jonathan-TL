@@ -88,7 +88,7 @@ Cuando no estoy programando, me encontrarás:
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_jonathan_tl_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://www.instagram.com/devbyjona?igsh=c2t0YXloZTQ1aHVz&utm_source=qr" />
   </a>
   <a href="https://www.facebook.com/jonathantoledodev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
