@@ -1,27 +1,91 @@
-<h2 data-importer="text" align="left">👋 ¡Hola! Soy Jonathan</h2>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Jonathan!;Estudiante+de+Desarrollo+Web;Futuro+Frontend+Developer;Power+level%3A+en+constante+crecimiento+%F0%9F%94%A5" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/QOEnbBW3faLYbUsi5R/giphy.gif" width="380" alt="coding gif" />
+
+</div>
+
+<h1 align="center">👋 ¡Bienvenido a mi perfil, guerrero del código! ⚡</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Desarrollo%20Web-FF8C00?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/En%20proceso-Frontend%20Developer-0057B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍-Guadalajara%2C%20México-red?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>"No importa cuántas veces caiga, siempre me levantaré más fuerte." 🐉</i><br>
+  <sub>— filosofía Saiyajin aplicada al debugging</sub>
+</p>
+
+---
 
 ## 🎓 Sobre mí
 
-¡Hola! Soy estudiante de la **Licenciatura en Desarrollo de Sistemas Web** en la **Universidad de Guadalajara**. Actualmente estoy en mi etapa de formación, construyendo bases sólidas en desarrollo frontend y explorando el fascinante mundo de la programación web, cuando no estoy programando estoy pasando tiempo en familia, jugando videojuegos, leyendo algun libro o viendo alguna serie anime.
+¡Hola! Soy estudiante de la **Licenciatura en Desarrollo de Sistemas Web** en la **Universidad de Guadalajara**. Estoy en mi etapa de formación, construyendo bases sólidas en desarrollo frontend y explorando el mundo de la programación web. Cuando no estoy programando, seguro me encuentras en familia, jugando videojuegos, leyendo algún libro o maratoneando anime (Dragon Ball siempre presente 🔥).
 
-- 🌱 **Actualmente aprendiendo:** React, Angular y Tailwind CSS
-- 💻 **Tecnologías que manejo:** HTML5, CSS3, JavaScript (básico) (Sigo Aprendiendo)
-- 🎯 **Objetivo 2026:** Dominar un framework frontend y empezar con backend
-- 🤝 **Abierto a:** Colaborar en proyectos para ganar experiencia y aprender en comunidad
+- 🌱 **Actualmente entrenando en:** React, Angular y Tailwind CSS
+- 💻 **Ki actual (tecnologías que manejo):** HTML5, CSS3, JavaScript (básico, subiendo de nivel)
+- 🎯 **Objetivo 2026:** Dominar un framework frontend y comenzar mi transformación hacia el backend
+- 🤝 **Abierto a:** Colaborar en proyectos, fusionarme (Fusion Dance 🤜🤛) con otros devs y aprender en comunidad
+
+---
+
+## 🛠️ Stack actual
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🔜 Próxima transformación (tecnologías en camino)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
 ## 📁 Proyectos realizados (Landing Pages)
 
-Aquí algunos de mis primeros proyectos mientras aprendo:
+Aquí algunos de mis primeros proyectos mientras subo de nivel:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-|  https://jonathan-tl.github.io/Landingpage-taller/ | Pagina para taller hecha con  | HTML, CSS, JS |
-|  https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/ | Pagina para negocio de venta de autos seminuevos | HTML, CSS, JS |
-|  https://citluen.com/ | Pagina informativa para empresa de aluminio y cristaleria | HTML, CSS, JS |
+| [🔗 Landing Page - Taller](https://jonathan-tl.github.io/Landingpage-taller/) | Página para taller mecánico | HTML, CSS, JS |
+| [🔗 Autos Seminuevos](https://jonathan-tl.github.io/Autos-Seminuevos-Landing-Page/) | Página para negocio de venta de autos seminuevos | HTML, CSS, JS |
+| [🔗 Citluen](https://citluen.com/) | Página informativa para empresa de aluminio y cristalería | HTML, CSS, JS |
 
-> 💡 *Estoy en proceso de subir más proyectos a medida que avanzo en mi aprendizaje.*
+> 💡 *Estoy en proceso de subir más proyectos a medida que avanzo en mi aprendizaje. Cada repo es un nuevo entrenamiento en la cámara del tiempo.*
+
+---
+
+## 📊 Estadísticas de aprendizaje
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-TL&show_icons=true&theme=radical&hide=stars&show=prs_merged,prs_merged_percentage" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-TL&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-TL&theme=radical" alt="streak stats" />
+</p>
+
+### 🐍 Actividad de contribuciones
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ---
 
@@ -29,80 +93,38 @@ Aquí algunos de mis primeros proyectos mientras aprendo:
 
 Cuando no estoy programando, me encontrarás:
 
-- 📚 **Leyendo** (siempre buscando nuevas historias)
-- 🎮 **Jugando videojuegos** (mi otra pasión)
-- 🎬 **Viendo anime** (siempre abierto a recomendaciones)
+- 📚 **Leyendo** — siempre buscando nuevas historias
+- 🎮 **Jugando videojuegos** — mi otra pasión (RPGs y shooters 🥋)
+- 🎬 **Viendo anime** — Dragon Ball es religión, siempre abierto a recomendaciones
 - 🤝 **Conectando** con otros developers en redes
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anime-Dragon%20Ball-orange?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gamer-Level%20Up-0057B7?style=for-the-badge&logo=playstation&logoColor=white" />
+</p>
 
 ---
 
-###
+## 🌐 Conéctate conmigo
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+¡Me encanta conocer gente nueva! Si quieres colaborar, compartir conocimiento o solo charlar, aquí estoy:
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW80OHY2eHVybm91YXg0Znoxd3kzNWsyMHI2cXRibGFndHVjZTNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
-### 🌐 Conéctate conmigo
-
-¡Me encanta conocer gente nueva! Si quieres colaborar, compartir conocimiento o solo charlar.
-
-<div data-importer="socials" align="left">
-  <a href="https://www.facebook.com/devbyjona" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-toledo-l">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/devbyjona" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://x.com/devbyjona">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/jonathan-toledo-l" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/devbyjona">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/devbyjona" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.facebook.com/devbyjona">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
+---
 
 ## 🤝 ¿Quieres colaborar?
 
@@ -111,12 +133,12 @@ Si estás buscando compañeros para:
 - ✅ Practicar código juntos
 - ✅ Crear una comunidad de aprendizaje
 
-**¡Escríbeme!** Estoy en toda la disposición de aprender y crecer junto a otros developers.
+**¡Escríbeme!** Estoy en toda la disposición de aprender y crecer junto a otros developers. Como dirían en Dragon Ball: *"Juntos somos más fuertes que separados."* 🐉
 
 ---
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/jonathan-TL/jonathan-TL/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jonathan-TL&color=orange&style=flat-square" alt="Visitas al perfil" />
+  <br /><br />
+  <i>"El viaje de mil líneas de código comienza con un 'Hola Mundo'"</i>
+</p>
